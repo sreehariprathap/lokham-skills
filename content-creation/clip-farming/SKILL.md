@@ -1,16 +1,17 @@
 ---
 name: clip-farming
-description: Turn long gaming footage (GTA 6 streams, VODs, your own gameplay) into vertical short clips that get views, and get paid for them through clipping campaigns. Finds the best moments, cuts 9:16 shorts with a 1-second hook and captions, writes titles and a posting plan, and explains how paid clipping campaigns work, honest rates and what you are allowed to clip. Use this whenever someone wants to clip, clip farm, make shorts/reels/TikToks from a stream or gameplay, asks how clippers get paid, wants to make money from GTA 6 (or any game) without owning it, or says "help me make clips", even if they never say "clip farming".
+description: Turn long footage (GTA 6 and other games, sports moments, viral events, your own gameplay) into vertical short clips that get views, and earn from them through ad revenue on your own page or clipping campaigns that have a budget. Finds the best moments, cuts 9:16 shorts with a 1-second hook and captions, writes titles and a posting plan, and explains honestly how the money works (no promised numbers) and what you are allowed to clip. Use this whenever someone wants to clip, clip farm, make shorts/reels/TikToks from a stream or gameplay, asks how clippers get paid, wants to make money from GTA 6 (or any game, sport or viral moment) without owning it, or says "help me make clips", even if they never say "clip farming".
 ---
 
 # Clip farming
 
-Clip farming = taking long footage (a 4-hour stream, a gameplay session) and turning its best 10-30 seconds into
-vertical shorts, many times a day. People make money from it two ways:
+Clip farming = taking long footage (a 4-hour stream, a gameplay session, a match, a viral event) and turning its best
+10-30 seconds into vertical shorts, many times a day. The money comes two ways:
 
-1. **Paid clipping campaigns.** A streamer, creator or brand posts footage and a budget; clippers post clips and get
-   paid per 1,000 verified views. You don't need to own the game: the footage is theirs and they gave permission.
-2. **Your own channel.** Clip your own gameplay, grow an account, and earn through the platform's own programmes later.
+1. **Ad revenue on your own page.** Post the clips on your own accounts; once a page qualifies for the platform's
+   monetisation programme, its views earn a share of ad revenue. This is the main route.
+2. **Clipping campaigns that have a budget.** Some creators and brands post footage plus a budget and pay approved
+   clips of *their* footage. Find them on clipping marketplaces, follow the brief, submit the clips.
 
 Your job is to get the person from "I want to do this" to a folder of finished clips and a plan, honestly.
 Read `references/campaigns.md` before talking about money, and `references/rights.md` before cutting anything.
@@ -27,7 +28,7 @@ what you need, in one go:
 If they have no footage yet, skip to step 5 (plan + campaigns) and tell them what to record or where to find
 campaign footage. If the footage belongs to someone else (a friend's stream, a creator's VOD), the fix is usually
 easy: ask the owner for a written OK (a DM they can screenshot), agree where clips get posted and how the owner is
-credited, and whether the owner will pay per clip. Until then, don't cut it. If the owner can't be asked, explain why
+credited. Until then, don't cut it. If the owner can't be asked, explain why
 (see `references/rights.md`) and offer the allowed routes instead. This protects their account: platforms strike
 re-uploads, and campaigns reject clips that break their brief.
 
@@ -92,16 +93,15 @@ learn which hooks work. For campaigns: submit each clip in the campaign dashboar
 
 ## Be honest about money
 
-There are three routes, and the person should hear all three:
-1. **A streamer pays them directly** (flat fee per clip, weekly, or per view). Often the most realistic start,
-   especially when they already know the streamer.
-2. **Paid clipping campaigns**: they pay only for clips of *their own* footage, following their brief. A friend's VOD
-   doesn't count unless that friend runs the campaign.
-3. **Their own channel**: platform payouts need a big following first, and game footage is a grey area (see rights).
+Two routes (details in `references/campaigns.md`):
+1. **Ad revenue on their own page**, once it qualifies for the platform's monetisation programme. Each platform sets
+   its own rules and thresholds; point them to the platform's own monetisation page rather than quoting them.
+2. **Clipping campaigns with a budget**: join on a clipping marketplace, follow the brief, submit clips. Campaigns pay
+   only for clips of *their own* footage; a friend's VOD doesn't count unless that friend runs the campaign.
 
-Use the numbers in `references/campaigns.md` and say where they come from. Typical campaign rates are around $1 per
-1,000 views, with a wide range, payout caps per clip and campaign budgets that run out. Most clips get a few hundred
-to a few thousand views; a few break out. Never promise an income. Never ask for or handle their passwords,
+**Never give a number** (per view, per 1,000 views, per month). Ad revenue changes all the time and depends on the
+platform, the audience, the country and the season; campaign terms differ per campaign. Say it honestly: nobody can
+promise a number, but it's possible. Most clips get modest views; a few break out. Never promise an income. Never ask for or handle their passwords,
 payment details or platform logins: they sign up and submit themselves.
 
 The dates, rates and policies in the reference files were checked in November 2026. If you can search the web,
@@ -114,4 +114,4 @@ re-check them before quoting; if you can't, say when they were last checked.
 - [ ] cut clips (1080x1920) with hook at 0 s, or .srt captions alongside
 - [ ] a title + caption per clip
 - [ ] posting plan + tracking sheet
-- [ ] honest money note, with the campaign's own rate and rules
+- [ ] honest money note: ad revenue + campaigns, no promised numbers

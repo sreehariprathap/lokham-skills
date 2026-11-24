@@ -1,7 +1,7 @@
 # clip-farming
 
 A free Claude skill that turns long gaming footage (GTA 6 streams, VODs, your own gameplay) into vertical short clips,
-and explains honestly how paid clipping campaigns work. Shared by **Just.intelligence.Things** for everyone who
+and explains honestly how the money works: ad revenue on your own page, or clipping campaigns that have a budget. Shared by **Just.intelligence.Things** for everyone who
 commented **GTA** on the reel.
 
 ## What it does
@@ -10,7 +10,7 @@ commented **GTA** on the reel.
 - Cuts 1080x1920 shorts with the hook on screen from the first frame, removes letterbox bars, and has a stream
   layout (webcam on top, gameplay below) — `scripts/cut_short.py`
 - Writes hooks, captions, titles and a 30-day posting plan, with a tracking sheet
-- Explains clipping campaigns: how they pay, typical rates, caps, red flags
+- Explains the money honestly: ad revenue once your page qualifies, how to join a campaign that has a budget, red flags. No promised numbers
 
 ## Install
 
@@ -38,10 +38,10 @@ python3 scripts/cut_short.py stream.mp4 --start 1:02:34 --end 1:02:52 --facecam 
 ```
 
 ## Please read
-- Only clip footage you're allowed to use: campaign footage (follow its brief) or your own gameplay.
+- Works for games, sports moments and viral events, but only clip footage you're allowed to use: your own footage,
+  campaign footage (follow its brief) or footage you have permission for. Sports broadcasts get claimed fast.
   Re-uploading other people's videos gets accounts struck. See `references/rights.md`.
-- Money numbers are estimates from third-party guides (Nov 2026): around $1 per 1,000 views, roughly $0.20–$6,
-  with caps and budgets. Nothing here is a promise of income.
+- Nobody can promise how much you'll earn: ad revenue changes all the time. It's possible, not guaranteed.
 - Not affiliated with Rockstar Games, Take-Two, Whop, YouTube, Instagram, TikTok or Anthropic.
   GTA and Grand Theft Auto are trademarks of Take-Two Interactive.
 

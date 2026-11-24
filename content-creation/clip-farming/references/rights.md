@@ -19,12 +19,16 @@ Not legal advice. The aim is to keep the person's accounts safe and their clips 
 - Story **spoilers**, especially in the first weeks after a game launches. Many publishers ask creators to avoid them,
   and audiences report them.
 
+## Sports and viral events
+- Match broadcasts and TV footage are among the most claimed content online; re-uploads get muted, blocked or struck
+  within minutes. Use footage you shot yourself, licensed footage, or a campaign's footage.
+
 ## GTA 6 specifically (Rockstar)
 - Rockstar's policy on posting its copyrighted material is written for **occasional, non-commercial fan content**,
   restricts spoilers, and allows cutscenes only as part of a longer play-through or narrated video.
   Read the current page: support.rockstargames.com (search "Policy on posting copyrighted Rockstar Games material").
-- Earning ad money from GTA footage is a grey area under that policy. Campaign payments for clipping a streamer's
-  footage come from the streamer/brand, but the game content is still Rockstar's: follow both the brief and the policy.
+- Earning ad money from GTA footage is a grey area under that policy, so monetisation can be refused or claimed.
+  Campaign payments come from the campaign, but the game content is still Rockstar's: follow both the brief and the policy.
 - GTA 6 launched on 19 November 2026 on PS5 and Xbox Series X|S.
 
 ## If unsure

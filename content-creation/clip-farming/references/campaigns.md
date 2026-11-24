@@ -1,34 +1,26 @@
-# Paid clipping campaigns
+# How the money works
 
-Checked November 2026. Rates and rules change; always read the campaign's own page before quoting numbers.
+Checked November 2026. Platforms and campaigns change their rules; always send people to the official pages.
 
-## How they work
-- A creator, streamer or brand posts a **campaign**: the footage (or the channel to clip from), a **brief**
-  (what to clip, required tags or links, banned content), a **rate per 1,000 views**, a **cap per clip**
-  and a **total budget**.
-- Clippers post clips on their own TikTok / Reels / Shorts accounts and submit the links in the campaign dashboard.
-- The platform tracks **verified views** over a tracking window and pays approved clips from the budget.
-  When the budget is used up, the campaign ends, even for clips still getting views.
-- Some campaigns pay per post, from a shared pool, or as a retainer instead of per view. The campaign page says which.
+## 1. Ad revenue on your own page (the main route)
+- Post clips on your own accounts. Once a page qualifies for the platform's monetisation programme, its views earn a
+  share of ad revenue.
+- Each platform sets its own eligibility rules (followers, watch time, views, original content, country). Don't quote
+  thresholds from memory: open the platform's own monetisation help page with the person.
+- Re-uploaded or unoriginal content usually doesn't qualify. Clips with your own edit, hook and captions, of footage you
+  are allowed to use, have the best chance.
 
-The best-known marketplace is Whop's **Content Rewards**. Others exist; the same checks apply.
+## 2. Clipping campaigns that have a budget
+- Some creators, streamers and brands run **campaigns**: they share footage, a **brief** (what to clip, required tags or
+  links, banned content) and a **budget**, and pay approved clips of *their* footage.
+- How to get them: find the campaign on a clipping marketplace (Whop's Content Rewards is a well-known one), read the
+  whole brief, post the clip on your own account, and submit the link in the campaign dashboard.
+- Payment terms differ per campaign (per view, per post, caps, tracking windows) and stop when the budget runs out.
+  Read them on the campaign page; don't repeat rates from memory or blogs.
+- Red flags: a fee to join, asking for your password, paying only in crypto you must buy first, "guaranteed" income.
+  Real campaigns never need your login.
 
-## Honest numbers (third-party guides, not official)
-- Typical rate: **about $1 per 1,000 views**. Reported range roughly **$0.20 to $6** per 1,000 views
-  (one survey of 100 campaigns found a median of about $1.30).
-- Platform fee: reported around **10%** of clipper earnings on per-view campaigns.
-- Example maths: 100,000 views at $1/1K = $100 before fees, *if* the clip is approved, under the cap, and the budget
-  lasts. Most clips get far fewer views; a few break out.
-- Sources: reap.video/blog/whop-clipping, openclip.app/guides/whop-clipping-guide,
-  socialync.io/blog/clipping-campaigns-pay-per-view-2026 (third-party; treat as estimates).
-
-## Before joining a campaign
-- Read the whole brief: required hashtags, @mentions, link in bio, minimum length, banned edits.
-- Check the cap per clip and how much budget is left. A big rate with an almost empty budget pays little.
-- Check what counts as a view and the tracking window.
-- Red flags: a fee to join, asking for your account password, paying only in crypto you must buy first,
-  "guaranteed" income. Real campaigns never need your login.
-
-## What to tell the person
-Say the rate is per campaign, give the range, show the example maths with "if", and point them to the campaign
-page for the real number. Don't promise income, don't sign them up, and don't handle their accounts or payments.
+## How much? Say it honestly
+**Never give a number.** Ad revenue changes all the time (platform, audience, country, season), and campaign terms
+differ per campaign. Say: nobody can promise a number, but it's possible. Most clips get modest views; a few break out.
+Don't sign anyone up and don't handle their accounts or payments.
