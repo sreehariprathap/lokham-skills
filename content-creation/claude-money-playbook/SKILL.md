@@ -5,6 +5,8 @@ description: A practical playbook for earning money with Claude and seven free o
 
 # Claude Money Playbook (Million Ways to Make Money with Claude, episode 1)
 
+Requires an AI agent that can read skills or Markdown files: Claude (app or Claude Code), Codex, or another agentic platform. No other setup to read it; each tool's file lists what that tool needs.
+
 From Just.intelligence.Things, written 2026-11-24. Prices here are ROUGH ranges published by agencies and freelancers. They are not promises or income claims. Say so at the start and again when you quote a number.
 
 ## How to use this skill
